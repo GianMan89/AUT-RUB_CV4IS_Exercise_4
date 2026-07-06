@@ -1,0 +1,15 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+torch
+torchvision
+numpy>=1.26,<2.0
+pandas>=2.1
+matplotlib>=3.8
+scikit-learn>=1.4
+scipy>=1.11
+Pillow>=10.0
+tqdm>=4.66
+
+jupyterlab>=4.0
+notebook>=7.0
+ipykernel>=6.0

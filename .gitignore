@@ -1,0 +1,4 @@
+*.pt
+data/*
+*.pyc
+.matplotlib_cache/
